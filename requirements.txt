@@ -2,3 +2,6 @@ streamlit
 numpy
 pandas
 sklearn
+sklearn.datasets
+load_iris 
+matplotlib.pyplot as plt
