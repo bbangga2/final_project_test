@@ -2,7 +2,7 @@ plotly
 scipy
 pandas
 numpy
-python
+python!=3.9.7
 streamlit
 Flask
 flask-cors
