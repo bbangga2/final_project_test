@@ -1,4 +1,9 @@
-streamlit
-numpy
+plotly
+scipy
 pandas
+numpy
 python
+streamlit
+Flask
+flask-cors
+pyforest
