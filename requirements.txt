@@ -1,4 +1,4 @@
 streamlit
-numpy==1.20.2
-pandas==1.2.4
+numpy
+pandas
 python
